@@ -74,7 +74,6 @@ static void  init_cols(void)
 void matrix_init(void)
 {
   #ifdef KB_NRF_DEBUG
-    kb_nrf_print("matrix init");
   #endif 
     // initialize row and col
     unselect_rows();

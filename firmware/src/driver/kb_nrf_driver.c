@@ -3,6 +3,7 @@
 #include "kb_nrf_driver.h"
 #include "kb_nrf_keyboard.h"
 
+#include "log/kb_nrf_print.h"
 /* Host driver */
 static uint8_t keyboard_leds(void);
 static void send_keyboard(report_keyboard_t *report);
@@ -18,7 +19,7 @@ host_driver_t kb_nrf_driver = {
     send_consumer
 };
 
-// 用来设置led的暂时可以为nil
+
 static uint8_t keyboard_leds(void)
 {
     //return keyboard.leds();

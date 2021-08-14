@@ -15,11 +15,7 @@ You should have received a copy of the GNU General Public License
 along with this program.  If not, see <http://www.gnu.org/licenses/>.
 */
 
-/**
- * 键盘矩阵基配置文�
- * 
- * 定义各个按键的位置，方便编写Keymap
- */
+
 #pragma once
 
 #include <stdint.h>
