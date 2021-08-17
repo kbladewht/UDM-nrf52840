@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/crc16.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\crc16\crc16.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\crc16\crc16.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -27,5 +27,5 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/crc16.o: \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/libraries/util/sdk_macros.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\crc16\crc16.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\crc16\crc16.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdlib.h

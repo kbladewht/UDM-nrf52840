@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/auth_status_tracker.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\auth_status_tracker.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\auth_status_tracker.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \

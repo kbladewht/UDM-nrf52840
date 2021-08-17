@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_balloc.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\balloc\nrf_balloc.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\balloc\nrf_balloc.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -29,7 +29,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_balloc.o: \
  ../SDK/components/libraries/util/nrf_assert.h \
  ../SDK/components/libraries/experimental_section_vars/nrf_section.h \
  ../SDK/components/libraries/util/nordic_common.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\balloc\nrf_balloc.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\balloc\nrf_balloc.h \
  ../SDK/components/libraries/util/sdk_errors.h \
  ../SDK/components/libraries/util/app_util_platform.h \
  ../SDK/components/softdevice/s140/headers/nrf_soc.h \

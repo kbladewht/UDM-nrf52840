@@ -1,7 +1,7 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_fstorage.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\fstorage\nrf_fstorage.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\fstorage\nrf_fstorage.c \
  src/sdk_config.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\fstorage\nrf_fstorage.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\fstorage\nrf_fstorage.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
  ../SDK/components/libraries/util/sdk_errors.h \

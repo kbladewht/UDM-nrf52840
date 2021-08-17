@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_atflags.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\atomic_flags\nrf_atflags.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\atomic_flags\nrf_atflags.c \
  ../SDK/modules/nrfx/mdk/nrf.h ../SDK/modules/nrfx/mdk/nrf52840.h \
  ../SDK/components/toolchain/cmsis/include/core_cm4.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
@@ -28,4 +28,4 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_atflags.o: \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/libraries/util/sdk_macros.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\atomic_flags\nrf_atflags.h
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\atomic_flags\nrf_atflags.h

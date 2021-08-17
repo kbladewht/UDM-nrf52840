@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/drv_rtc.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\timer\drv_rtc.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\timer\drv_rtc.c \
  ../SDK/modules/nrfx/nrfx.h ../SDK/integration/nrfx/nrfx_config.h \
  src/sdk_config.h ../SDK/modules/nrfx/drivers/nrfx_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \

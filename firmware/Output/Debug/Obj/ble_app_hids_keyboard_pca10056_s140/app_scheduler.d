@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/app_scheduler.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\scheduler\app_scheduler.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\scheduler\app_scheduler.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -27,7 +27,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/app_scheduler.o: \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/libraries/util/sdk_macros.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\scheduler\app_scheduler.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\scheduler\app_scheduler.h \
  ../SDK/components/libraries/util/app_error.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdio.h \
  ../SDK/components/libraries/util/app_error_weak.h \

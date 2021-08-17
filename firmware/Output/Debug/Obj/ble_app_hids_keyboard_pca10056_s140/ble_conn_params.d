@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/ble_conn_params.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\common\ble_conn_params.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\common\ble_conn_params.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -32,7 +32,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/ble_conn_params.o: \
  ../SDK/components/softdevice/s140/headers/ble_hci.h \
  ../SDK/components/softdevice/s140/headers/ble_err.h \
  ../SDK/components/softdevice/s140/headers/nrf_error.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\common\ble_conn_params.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\common\ble_conn_params.h \
  ../SDK/components/softdevice/s140/headers/ble.h \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/softdevice/s140/headers/ble_err.h \
@@ -44,12 +44,12 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/ble_conn_params.o: \
  ../SDK/components/softdevice/s140/headers/ble_gatt.h \
  ../SDK/components/softdevice/s140/headers/ble_gattc.h \
  ../SDK/components/softdevice/s140/headers/ble_gatts.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\common\ble_srv_common.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\common\ble_srv_common.h \
  ../SDK/components/softdevice/s140/headers/ble_types.h \
  ../SDK/components/libraries/util/app_util.h \
  ../SDK/components/softdevice/s140/headers/ble_gap.h \
  ../SDK/components/softdevice/s140/headers/ble_gatt.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\common\ble_conn_state.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\common\ble_conn_state.h \
  ../SDK/components/libraries/atomic/nrf_atomic.h \
  ../SDK/components/softdevice/common/nrf_sdh_ble.h \
  ../SDK/components/libraries/experimental_section_vars/nrf_section_iter.h \

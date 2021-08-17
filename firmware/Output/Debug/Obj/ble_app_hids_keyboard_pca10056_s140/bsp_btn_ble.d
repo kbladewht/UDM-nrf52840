@@ -1,6 +1,6 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/bsp_btn_ble.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\bsp\bsp_btn_ble.c \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\bsp\bsp_btn_ble.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\bsp\bsp_btn_ble.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\bsp\bsp_btn_ble.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  ../SDK/components/softdevice/s140/headers/ble.h \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
@@ -25,7 +25,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/bsp_btn_ble.o: \
  ../SDK/modules/nrfx/mdk/nrf52_to_nrf52840.h \
  ../SDK/modules/nrfx/mdk/compiler_abstraction.h \
  ../SDK/components/softdevice/s140/headers/ble_gatts.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\bsp\bsp.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\bsp\bsp.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
  ../SDK/components/boards/boards.h ../SDK/modules/nrfx/hal/nrf_gpio.h \
  ../SDK/modules/nrfx/nrfx.h ../SDK/integration/nrfx/nrfx_config.h \

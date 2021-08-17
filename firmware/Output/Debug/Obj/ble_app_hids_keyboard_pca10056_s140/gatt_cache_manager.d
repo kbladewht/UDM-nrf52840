@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/gatt_cache_manager.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\gatt_cache_manager.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\gatt_cache_manager.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -27,7 +27,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/gatt_cache_manager.o: \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/libraries/util/sdk_macros.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\gatt_cache_manager.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\gatt_cache_manager.h \
  ../SDK/components/libraries/util/sdk_errors.h \
  ../SDK/components/softdevice/s140/headers/ble.h \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
@@ -42,7 +42,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/gatt_cache_manager.o: \
  ../SDK/components/softdevice/s140/headers/ble_gattc.h \
  ../SDK/components/softdevice/s140/headers/ble_gatts.h \
  ../SDK/components/softdevice/s140/headers/ble_gap.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_manager_types.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_manager_types.h \
  ../SDK/components/softdevice/s140/headers/ble_hci.h \
  ../SDK/components/ble/common/ble_gatt_db.h \
  ../SDK/components/softdevice/s140/headers/ble_gattc.h \
@@ -57,11 +57,11 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/gatt_cache_manager.o: \
  ../SDK/components/softdevice/s140/headers/ble_err.h \
  ../SDK/components/ble/common/ble_conn_state.h \
  ../SDK/components/libraries/atomic/nrf_atomic.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_manager_internal.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\id_manager.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\gatts_cache_manager.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_data_storage.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_database.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_manager_internal.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\id_manager.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\gatts_cache_manager.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_data_storage.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_database.h \
  ../SDK/components/libraries/mutex/nrf_mtx.h \
  ../SDK/components/libraries/util/nrf_assert.h \
  ../SDK/components/libraries/log/nrf_log.h \

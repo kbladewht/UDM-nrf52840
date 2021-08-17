@@ -1,6 +1,6 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/boards.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\boards\boards.c \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\boards\boards.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\boards\boards.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\boards\boards.h \
  ../SDK/modules/nrfx/hal/nrf_gpio.h ../SDK/modules/nrfx/nrfx.h \
  ../SDK/integration/nrfx/nrfx_config.h src/sdk_config.h \
  ../SDK/modules/nrfx/drivers/nrfx_common.h \
@@ -51,4 +51,4 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/boards.o: \
  ../SDK/components/softdevice/s140/headers/nrf_sd_def.h \
  ../SDK/components/softdevice/s140/headers/nrf_soc.h \
  ../SDK/modules/nrfx/drivers/nrfx_errors.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\boards\pca10056.h
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\boards\pca10056.h

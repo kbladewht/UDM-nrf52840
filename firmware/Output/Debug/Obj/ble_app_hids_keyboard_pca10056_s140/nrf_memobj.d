@@ -1,6 +1,6 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_memobj.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\memobj\nrf_memobj.c \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\memobj\nrf_memobj.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\memobj\nrf_memobj.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\memobj\nrf_memobj.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdlib.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/__crossworks.h \

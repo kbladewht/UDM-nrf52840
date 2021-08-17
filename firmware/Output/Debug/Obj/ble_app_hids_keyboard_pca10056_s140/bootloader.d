@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/bootloader.o: \
- C\:\Users\ht\Documents\GitHub\my52840\firmware\src\protocol\bootloader.c \
+ C\:\msys64\home\ht\UDM-nrf52840\firmware\src\protocol\bootloader.c \
  tmk_core/common/bootloader.h ../SDK/modules/nrfx/mdk/nrf.h \
  ../SDK/modules/nrfx/mdk/nrf52840.h \
  ../SDK/components/toolchain/cmsis/include/core_cm4.h \

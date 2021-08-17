@@ -1,7 +1,7 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/ble_service.o: \
- C\:\Users\ht\Documents\GitHub\my52840\firmware\src\ble\ble_service.c \
+ C\:\msys64\home\ht\UDM-nrf52840\firmware\src\ble\ble_service.c \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
- C\:\Users\ht\Documents\GitHub\my52840\firmware\src\ble\ble_service.h \
+ C\:\msys64\home\ht\UDM-nrf52840\firmware\src\ble\ble_service.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/string.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/__crossworks.h \

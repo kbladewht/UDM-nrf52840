@@ -1,6 +1,6 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/ble_srv_common.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\common\ble_srv_common.c \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\common\ble_srv_common.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\common\ble_srv_common.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\common\ble_srv_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
  ../SDK/components/softdevice/s140/headers/ble_types.h \

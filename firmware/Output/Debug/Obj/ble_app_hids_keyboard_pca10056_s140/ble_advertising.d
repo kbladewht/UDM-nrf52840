@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/ble_advertising.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\ble_advertising\ble_advertising.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\ble_advertising\ble_advertising.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -40,7 +40,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/ble_advertising.o: \
  ../SDK/components/softdevice/s140/headers/ble_gatt.h \
  ../SDK/components/softdevice/s140/headers/ble_gattc.h \
  ../SDK/components/softdevice/s140/headers/ble_gatts.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\ble_advertising\ble_advertising.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\ble_advertising\ble_advertising.h \
  ../SDK/components/softdevice/s140/headers/ble_gap.h \
  ../SDK/components/softdevice/s140/headers/ble_gattc.h \
  ../SDK/components/softdevice/s140/headers/nrf_soc.h \

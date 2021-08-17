@@ -1,6 +1,6 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/ble_link_ctx_manager.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\ble_link_ctx_manager\ble_link_ctx_manager.c \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\ble_link_ctx_manager\ble_link_ctx_manager.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\ble_link_ctx_manager\ble_link_ctx_manager.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\ble_link_ctx_manager\ble_link_ctx_manager.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  ../SDK/components/ble/common/ble_conn_state.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \

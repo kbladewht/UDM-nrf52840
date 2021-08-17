@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/id_manager.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\id_manager.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\id_manager.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -27,7 +27,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/id_manager.o: \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/libraries/util/sdk_macros.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\id_manager.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\id_manager.h \
  ../SDK/components/libraries/util/sdk_errors.h \
  ../SDK/components/softdevice/s140/headers/ble.h \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
@@ -42,7 +42,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/id_manager.o: \
  ../SDK/components/softdevice/s140/headers/ble_gattc.h \
  ../SDK/components/softdevice/s140/headers/ble_gatts.h \
  ../SDK/components/softdevice/s140/headers/ble_gap.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_manager_types.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_manager_types.h \
  ../SDK/components/softdevice/s140/headers/ble_hci.h \
  ../SDK/components/ble/common/ble_gatt_db.h \
  ../SDK/components/softdevice/s140/headers/ble_gattc.h \
@@ -54,10 +54,10 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/id_manager.o: \
  ../SDK/components/libraries/util/app_error.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdio.h \
  ../SDK/components/libraries/util/app_error_weak.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_manager_internal.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_manager_internal.h \
  ../SDK/components/softdevice/s140/headers/ble_err.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_database.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_data_storage.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_database.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_data_storage.h \
  ../SDK/components/ble/common/ble_conn_state.h \
  ../SDK/components/libraries/atomic/nrf_atomic.h \
  ../SDK/components/libraries/log/nrf_log.h \

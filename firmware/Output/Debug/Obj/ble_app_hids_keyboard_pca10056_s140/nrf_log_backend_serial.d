@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_log_backend_serial.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\log\src\nrf_log_backend_serial.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\log\src\nrf_log_backend_serial.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -27,7 +27,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_log_backend_serial.o: \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/libraries/util/sdk_macros.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\log\src\nrf_log_backend_serial.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\log\src\nrf_log_backend_serial.h \
  ../SDK/components/libraries/log/nrf_log_backend_interface.h \
  ../SDK/components/libraries/memobj/nrf_memobj.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdlib.h \
@@ -52,5 +52,5 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_log_backend_serial.o: \
  ../SDK/components/libraries/log/nrf_log_ctrl.h \
  ../SDK/components/libraries/log/src/nrf_log_ctrl_internal.h \
  ../SDK/components/libraries/log/nrf_log_backend_interface.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\log\src\nrf_log_internal.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\log\src\nrf_log_internal.h \
  ../SDK/components/libraries/log/nrf_log_types.h

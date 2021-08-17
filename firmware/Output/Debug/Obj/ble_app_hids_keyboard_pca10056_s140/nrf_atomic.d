@@ -1,6 +1,6 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_atomic.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\atomic\nrf_atomic.c \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\atomic\nrf_atomic.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\atomic\nrf_atomic.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\atomic\nrf_atomic.h \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -28,4 +28,4 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_atomic.o: \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/libraries/util/sdk_macros.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\atomic\nrf_atomic_internal.h
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\atomic\nrf_atomic_internal.h

@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_strerror.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\strerror\nrf_strerror.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\strerror\nrf_strerror.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -27,5 +27,5 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_strerror.o: \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/libraries/util/sdk_macros.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\strerror\nrf_strerror.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\strerror\nrf_strerror.h \
  ../SDK/components/libraries/util/sdk_errors.h

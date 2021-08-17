@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_fprintf_format.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\external\fprintf\nrf_fprintf_format.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\external\fprintf\nrf_fprintf_format.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -29,5 +29,5 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_fprintf_format.o: \
  ../SDK/components/libraries/util/nrf_assert.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdarg.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\external\fprintf\nrf_fprintf.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\external\fprintf\nrf_fprintf_format.h
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\external\fprintf\nrf_fprintf.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\external\fprintf\nrf_fprintf_format.h

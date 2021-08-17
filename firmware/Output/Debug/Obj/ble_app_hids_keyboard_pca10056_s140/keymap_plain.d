@@ -1,6 +1,6 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/keymap_plain.o: \
- C\:\Users\ht\Documents\GitHub\my52840\firmware\src\protocol\keymap_plain.c \
- C\:\Users\ht\Documents\GitHub\my52840\firmware\src\protocol\keymap_common.h \
+ C\:\msys64\home\ht\UDM-nrf52840\firmware\src\protocol\keymap_plain.c \
+ C\:\msys64\home\ht\UDM-nrf52840\firmware\src\protocol\keymap_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  tmk_core/common/keymap.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \

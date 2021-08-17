@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/main.o: \
- C\:\Users\ht\Documents\GitHub\my52840\firmware\src\main.c \
+ C\:\msys64\home\ht\UDM-nrf52840\firmware\src\main.c \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  src/ble/ble_service.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -75,7 +75,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/main.o: \
  ../SDK/components/libraries/util/app_error.h \
  ../SDK/components/ble/peer_manager/peer_database.h \
  ../SDK/components/ble/peer_manager/peer_manager_internal.h \
- C\:\Users\ht\Documents\GitHub\my52840\firmware\src\log/kb_nrf_print.h \
+ C\:\msys64\home\ht\UDM-nrf52840\firmware\src\log/kb_nrf_print.h \
  ../SDK/components/libraries/log/nrf_log.h \
  ../SDK/components/libraries/strerror/nrf_strerror.h \
  ../SDK/components/libraries/log/src/nrf_log_internal.h \

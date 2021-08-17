@@ -1,6 +1,6 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/bsp.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\bsp\bsp.c \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\bsp\bsp.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\bsp\bsp.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\bsp\bsp.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
  ../SDK/components/boards/boards.h ../SDK/modules/nrfx/hal/nrf_gpio.h \
@@ -54,7 +54,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/bsp.o: \
  ../SDK/components/boards/pca10056.h \
  ../SDK/components/libraries/button/app_button.h \
  ../SDK/components/libraries/util/app_error.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\bsp\bsp_config.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\bsp\bsp_config.h \
  ../SDK/components/libraries/timer/app_timer.h \
  ../SDK/components/libraries/log/nrf_log_instance.h \
  ../SDK/components/libraries/experimental_section_vars/nrf_section.h \

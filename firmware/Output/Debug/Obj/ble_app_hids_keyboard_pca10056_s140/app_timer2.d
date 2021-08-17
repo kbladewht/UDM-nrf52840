@@ -1,6 +1,6 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/app_timer2.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\timer\app_timer2.c \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\timer\app_timer.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\timer\app_timer2.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\timer\app_timer.h \
  src/sdk_config.h ../SDK/components/libraries/util/app_error.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdio.h \
@@ -67,5 +67,5 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/app_timer2.o: \
  ../SDK/components/libraries/strerror/nrf_strerror.h \
  ../SDK/components/libraries/log/src/nrf_log_internal.h \
  ../SDK/components/libraries/log/nrf_log_types.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\timer\drv_rtc.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\timer\drv_rtc.h \
  ../SDK/modules/nrfx/hal/nrf_rtc.h

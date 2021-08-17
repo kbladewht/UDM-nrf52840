@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/peer_database.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_database.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_database.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -27,8 +27,8 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/peer_database.o: \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/libraries/util/sdk_macros.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_database.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_manager_types.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_database.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_manager_types.h \
  ../SDK/components/softdevice/s140/headers/ble_gap.h \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/softdevice/s140/headers/nrf_error.h \
@@ -53,10 +53,10 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/peer_database.o: \
  ../SDK/components/libraries/util/app_error.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdio.h \
  ../SDK/components/libraries/util/app_error_weak.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_manager_internal.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_manager_internal.h \
  ../SDK/components/libraries/util/sdk_errors.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\peer_data_storage.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\ble\peer_manager\pm_buffer.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\peer_data_storage.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\ble\peer_manager\pm_buffer.h \
  ../SDK/components/libraries/atomic_flags/nrf_atflags.h \
  ../SDK/components/libraries/log/nrf_log.h \
  ../SDK/components/libraries/experimental_section_vars/nrf_section.h \

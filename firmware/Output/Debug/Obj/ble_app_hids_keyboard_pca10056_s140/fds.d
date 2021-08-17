@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/fds.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\fds\fds.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\fds\fds.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -27,7 +27,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/fds.o: \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/libraries/util/sdk_macros.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\fds\fds.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\fds\fds.h \
  ../SDK/components/libraries/util/sdk_errors.h \
  ../SDK/components/libraries/util/app_util_platform.h \
  ../SDK/components/softdevice/s140/headers/nrf_soc.h \
@@ -38,7 +38,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/fds.o: \
  ../SDK/components/libraries/util/app_error.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdio.h \
  ../SDK/components/libraries/util/app_error_weak.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\fds\fds_internal_defs.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\fds\fds_internal_defs.h \
  ../SDK/components/libraries/atomic/nrf_atomic.h \
  ../SDK/components/libraries/atomic_fifo/nrf_atfifo.h \
  ../SDK/components/libraries/util/nordic_common.h \

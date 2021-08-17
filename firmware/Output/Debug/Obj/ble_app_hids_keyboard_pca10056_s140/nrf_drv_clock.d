@@ -1,7 +1,7 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_drv_clock.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\integration\nrfx\legacy\nrf_drv_clock.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\integration\nrfx\legacy\nrf_drv_clock.c \
  ../SDK/components/libraries/util/nordic_common.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\integration\nrfx\legacy\nrf_drv_clock.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\integration\nrfx\legacy\nrf_drv_clock.h \
  ../SDK/modules/nrfx/drivers/include/nrfx_clock.h \
  ../SDK/modules/nrfx/nrfx.h ../SDK/integration/nrfx/nrfx_config.h \
  src/sdk_config.h ../SDK/modules/nrfx/drivers/nrfx_common.h \

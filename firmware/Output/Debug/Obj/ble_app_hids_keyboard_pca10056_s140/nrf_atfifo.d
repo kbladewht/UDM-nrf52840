@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_atfifo.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\atomic_fifo\nrf_atfifo.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\atomic_fifo\nrf_atfifo.c \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/string.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/__crossworks.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
@@ -21,7 +21,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_atfifo.o: \
  ../SDK/modules/nrfx/mdk/compiler_abstraction.h \
  ../SDK/components/softdevice/s140/headers/nrf52/nrf_mbr.h \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\atomic_fifo\nrf_atfifo.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\atomic_fifo\nrf_atfifo.h \
  src/sdk_config.h ../SDK/components/libraries/util/nordic_common.h \
  ../SDK/components/libraries/util/nrf_assert.h \
  ../SDK/components/libraries/util/sdk_errors.h \
@@ -29,7 +29,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_atfifo.o: \
  ../SDK/components/libraries/log/nrf_log_instance.h \
  ../SDK/components/libraries/experimental_section_vars/nrf_section.h \
  ../SDK/components/libraries/log/nrf_log_types.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\atomic_fifo\nrf_atfifo_internal.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\atomic_fifo\nrf_atfifo_internal.h \
  ../SDK/components/libraries/log/nrf_log.h \
  ../SDK/components/libraries/util/sdk_common.h \
  ../SDK/components/libraries/util/sdk_os.h \

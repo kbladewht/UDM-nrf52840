@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_sortlist.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\sortlist\nrf_sortlist.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\sortlist\nrf_sortlist.c \
  ../SDK/components/libraries/util/sdk_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
@@ -27,7 +27,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrf_sortlist.o: \
  ../SDK/components/softdevice/s140/headers/nrf_svc.h \
  ../SDK/components/libraries/util/sdk_macros.h \
  ../SDK/components/libraries/util/nrf_assert.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\components\libraries\sortlist\nrf_sortlist.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\components\libraries\sortlist\nrf_sortlist.h \
  ../SDK/components/libraries/util/nrf_assert.h \
  ../SDK/components/libraries/log/nrf_log.h \
  ../SDK/components/libraries/experimental_section_vars/nrf_section.h \

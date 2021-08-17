@@ -1,7 +1,7 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/SEGGER_RTT.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\external\segger_rtt\SEGGER_RTT.c \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\external\segger_rtt\SEGGER_RTT.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\external\segger_rtt\SEGGER_RTT_Conf.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\external\segger_rtt\SEGGER_RTT.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\external\segger_rtt\SEGGER_RTT.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\external\segger_rtt\SEGGER_RTT_Conf.h \
  ../SDK/components/libraries/util/nordic_common.h \
  ../SDK/components/libraries/util/app_util_platform.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \

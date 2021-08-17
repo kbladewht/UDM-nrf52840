@@ -1,5 +1,5 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrfx_uarte.o: \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\modules\nrfx\drivers\src\nrfx_uarte.c \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\modules\nrfx\drivers\src\nrfx_uarte.c \
  ../SDK/modules/nrfx/nrfx.h ../SDK/integration/nrfx/nrfx_config.h \
  src/sdk_config.h ../SDK/modules/nrfx/drivers/nrfx_common.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
@@ -51,7 +51,7 @@ Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/nrfx_uarte.o: \
  ../SDK/modules/nrfx/drivers/nrfx_errors.h \
  ../SDK/modules/nrfx/drivers/include/nrfx_uarte.h \
  ../SDK/modules/nrfx/hal/nrf_uarte.h \
- C\:\Users\ht\Documents\GitHub\my52840\SDK\modules\nrfx\drivers\src\prs/nrfx_prs.h \
+ C\:\msys64\home\ht\UDM-nrf52840\SDK\modules\nrfx\drivers\src\prs/nrfx_prs.h \
  ../SDK/modules/nrfx/hal/nrf_gpio.h ../SDK/integration/nrfx/nrfx_log.h \
  ../SDK/components/libraries/log/nrf_log.h \
  ../SDK/components/libraries/util/sdk_common.h \

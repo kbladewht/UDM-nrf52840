@@ -1,12 +1,12 @@
 Output/Debug/Obj/ble_app_hids_keyboard_pca10056_s140/kb_nrf_driver.o: \
- C\:\Users\ht\Documents\GitHub\my52840\firmware\src\driver\kb_nrf_driver.c \
+ C\:\msys64\home\ht\UDM-nrf52840\firmware\src\driver\kb_nrf_driver.c \
  tmk_core/common/host.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdint.h \
  D\:/Program\ Files/SEGGER/SEGGER\ Embedded\ Studio\ for\ ARM\ 5.50b/include/stdbool.h \
  tmk_core/common/report.h tmk_core/common/keycode.h \
  tmk_core/common/host_driver.h tmk_core/common/host_driver.h \
- C\:\Users\ht\Documents\GitHub\my52840\firmware\src\driver\kb_nrf_driver.h \
- C\:\Users\ht\Documents\GitHub\my52840\firmware\src\driver\kb_nrf_keyboard.h \
+ C\:\msys64\home\ht\UDM-nrf52840\firmware\src\driver\kb_nrf_driver.h \
+ C\:\msys64\home\ht\UDM-nrf52840\firmware\src\driver\kb_nrf_keyboard.h \
  tmk_core/common/report.h src/log/kb_nrf_print.h \
  ../SDK/components/libraries/log/nrf_log.h \
  ../SDK/components/libraries/util/sdk_common.h \
