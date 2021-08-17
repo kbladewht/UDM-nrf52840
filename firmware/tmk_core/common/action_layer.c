@@ -4,9 +4,9 @@
 #include "util.h"
 #include "action_layer.h"
 #include "hook.h"
+#ifdef CONFIG_HEADER
 #include "config.h"
-
-#include "kb_nrf_print.h"
+#endif
 
 #ifdef DEBUG_ACTION
 #include "debug.h"
@@ -158,19 +158,11 @@ action_t layer_switch_get_action(keyevent_t event)
     if (event.pressed) {
         layer = current_layer_for_key(event.key);
         layer_pressed[event.key.row][event.key.col] = layer;
-          kb_nrf_print("rowLay== %x", event.key.row);
-          kb_nrf_print("ColLay== %x", event.key.col);
-          kb_nrf_print("layer== %x", layer);
-        kb_nrf_print("layer_pressed");
-
-
-
     } else {
         layer = layer_pressed[event.key.row][event.key.col];
     }
 #else
     layer = current_layer_for_key(event.key);
 #endif
-
     return action_for_key(layer, event.key);
 }

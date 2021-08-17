@@ -20,8 +20,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "action_util.h"
 #include "timer.h"
 
-#include "config.h"
-
 static inline void add_key_byte(uint8_t code);
 static inline void del_key_byte(uint8_t code);
 #ifdef NKRO_ENABLE

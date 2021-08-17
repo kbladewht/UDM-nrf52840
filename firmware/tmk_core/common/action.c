@@ -29,7 +29,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "hook.h"
 #include "wait.h"
 #include "bootloader.h"
-#include "config.h"
 
 #ifdef DEBUG_ACTION
 #include "debug.h"
@@ -37,7 +36,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "nodebug.h"
 #endif
 
-#define NO_ACTION_TAPPING
+
 void action_exec(keyevent_t event)
 {
     if (!IS_NOEVENT(event)) {

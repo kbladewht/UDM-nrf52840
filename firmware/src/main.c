@@ -29,7 +29,7 @@ static void idle_state_handle(void)
     app_sched_execute();
     if (NRF_LOG_PROCESS() == false)
     {
-       // nrf_pwr_mgmt_run();
+        nrf_pwr_mgmt_run();
     }
 }
 
@@ -79,13 +79,15 @@ void connection_test(void)
 
 }
 
-
 int main(void)
 {
     bool erase_bonds;
 
     // Initialize.
-    log_init();
+
+
+
+   log_init();
     timers_init();
     power_management_init();
     ble_stack_init();

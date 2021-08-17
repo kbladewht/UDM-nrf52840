@@ -31,9 +31,6 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "eeconfig.h"
 #include "backlight.h"
 #include "hook.h"
-#include "config.h"
-
-#include "kb_nrf_print.h"
 #ifdef MOUSEKEY_ENABLE
 #   include "mousekey.h"
 #endif
@@ -137,11 +134,6 @@ void keyboard_task(void)
                         .pressed = (matrix_row & col_mask),
                         .time = (timer_read() | 1) /* time should not be 0 */
                     };
-                    if(e.pressed){
-                       kb_nrf_print("row== %x", e.key.row);
-                       kb_nrf_print("Col== %x", e.key.col);
-
-                    }
                     action_exec(e);
                     hook_matrix_change(e);
                     // record a processed key
