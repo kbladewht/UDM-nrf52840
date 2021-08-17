@@ -48,8 +48,6 @@
 #include "app_error.h"
 #include "ble_srv_common.h"
 
-#include "kb_nrf_print.h"
-
 
 // Protocol Mode values
 #define PROTOCOL_MODE_BOOT               0x00                        /**< Boot Protocol Mode. */
@@ -1325,12 +1323,11 @@ uint32_t ble_hids_inp_rep_send(ble_hids_t * p_hids,
 {
     VERIFY_PARAM_NOT_NULL(p_hids);
     VERIFY_PARAM_NOT_NULL(p_data);
+
     uint32_t err_code;
 
     if (rep_index < p_hids->inp_rep_count)
     {
-
-    
         ble_hids_rep_char_t * p_rep_char = &p_hids->inp_rep_array[rep_index];
 
         if (conn_handle != BLE_CONN_HANDLE_INVALID)
@@ -1356,11 +1353,11 @@ uint32_t ble_hids_inp_rep_send(ble_hids_t * p_hids,
             }
 
             if (len <= p_hids->p_inp_rep_init_array[rep_index].max_len)
-            { 
+            {
                 memcpy(p_host_rep_data, p_data, len);
             }
             else
-            { 
+            {
                 return NRF_ERROR_DATA_SIZE;
             }
 
@@ -1374,8 +1371,6 @@ uint32_t ble_hids_inp_rep_send(ble_hids_t * p_hids,
             hvx_params.p_data = p_data;
 
             err_code = sd_ble_gatts_hvx(conn_handle, &hvx_params);
-         
-          
             if ((err_code == NRF_SUCCESS) && (*hvx_params.p_len != len))
             {
                 err_code = NRF_ERROR_DATA_SIZE;
@@ -1383,7 +1378,6 @@ uint32_t ble_hids_inp_rep_send(ble_hids_t * p_hids,
         }
         else
         {
-        
             err_code = NRF_ERROR_INVALID_STATE;
         }
     }
