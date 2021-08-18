@@ -1,10 +1,9 @@
 #include <stdint.h>
 #include "ble_service.h"
-#include <string.h>
+
+
+#include "nrf_log_ctrl.h"
 #include "nordic_common.h"
-#include "nrf.h"
-#include "ble.h"
-#include "ble_srv_common.h"
 #include "ble_advertising.h"
 #include "app_scheduler.h"
 #include "nrf_sdh_ble.h"
@@ -12,13 +11,11 @@
 #include "peer_manager_handler.h"
 
 #include "log/kb_nrf_print.h"
-#include "nrf_log.h"
-#include "nrf_log_ctrl.h"
-#include "nrf_log_default_backends.h"
 
 #include "kb_nrf_driver.h"
 
 #include "keyboard.h"
+#include "powermgr/powermgr.h"
 
 /**@brief Function for handling the idle state (main loop).
  *
@@ -32,6 +29,15 @@ static void idle_state_handle(void)
         nrf_pwr_mgmt_run();
     }
 }
+
+
+void timers_init(void)
+{
+    ret_code_t err_code;
+    err_code = app_timer_init();
+    APP_ERROR_CHECK(err_code);
+}
+
 
 static void keyboard_scan_handler(void* p_context)
 {
@@ -53,35 +59,10 @@ void init_and_start_scan_timer(void)
 
 }
 
-void battery_level_meas_timeout_handler(void * p_context)
-{
-  kb_nrf_print("printing zzzzc");
-  static uint8_t code[] = {0x16};
-  static uint8_t * p_key = code;
-  keys_send(1, p_key);
-   kb_nrf_print("printing zzzzc22222");
-}
-APP_TIMER_DEF(m_battery_timer_id);                                  /**< Battery timer. */
-void connection_test(void)
-{
-    ret_code_t err_code;
-    // Create battery timer.
-    err_code = app_timer_create(&m_battery_timer_id,
-                                APP_TIMER_MODE_REPEATED,
-                                battery_level_meas_timeout_handler);
-    APP_ERROR_CHECK(err_code);
-
-
-  ret_code_t err_code2;
-
-  err_code2 = app_timer_start(m_battery_timer_id, APP_TIMER_TICKS(10000), NULL);
-  APP_ERROR_CHECK(err_code2);
-
-}
 
 int main(void)
 {
-    bool erase_bonds;
+    bool erase_bonds = false;
 
     // Initialize.
 
@@ -109,6 +90,10 @@ int main(void)
     host_set_driver(&kb_nrf_driver);
 
     init_and_start_scan_timer();
+
+    kb_power_mgr_init();
+    kb_power_mgr_start();
+
    //s connection_test();
     // Enter main loop.
     for (;;)

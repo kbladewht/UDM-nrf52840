@@ -48,6 +48,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 #define BACKLIGHT_LEVELS 3
 
+#define BATTERY_PIN NRF_SAADC_INPUT_AIN1
+
 #define NRF_GPIO_PIN_MAP(port, pin) ((port << 5) | pin)
 
 #define P111_1 NRF_GPIO_PIN_MAP(0,24)

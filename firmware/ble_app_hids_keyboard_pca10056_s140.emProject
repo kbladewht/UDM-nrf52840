@@ -125,6 +125,10 @@
         <file file_name="src/log/kb_nrf_print.c" />
         <file file_name="src/log/kb_nrf_print.h" />
       </folder>
+	   <folder Name="powermgr">
+        <file file_name="src/powermgr/powermgr.c" />
+        <file file_name="src/powermgr/powermgr.h" />
+      </folder>
     </folder>
     <folder Name="nRF_Segger_RTT">
       <file file_name="../SDK/external/segger_rtt/SEGGER_RTT.c" />
