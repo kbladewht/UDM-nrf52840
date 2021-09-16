@@ -244,7 +244,7 @@
       </file>
       <configuration
         Name="Common"
-        c_preprocessor_definitions="CONFIG_HEADER;NO_ACTION_LAYER" />
+        c_preprocessor_definitions="CONFIG_HEADER" />
       <configuration
         Name="Debug"
         c_preprocessor_definitions="NO_PRINT"
