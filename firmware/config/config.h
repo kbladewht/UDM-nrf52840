@@ -97,10 +97,6 @@ static const uint8_t col_pins[MATRIX_COLS] = {P010_23, P106_22, P104_21, P024_20
 
 // temp comment
 /* disable action features */
-#define NO_ACTION_LAYER
-#define NO_ACTION_TAPPING
-#define NO_ACTION_ONESHOT
-#define NO_ACTION_MACRO
-#define NO_ACTION_FUNCTION
+
 
 #endif
